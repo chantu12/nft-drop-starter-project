@@ -1,0 +1,20 @@
+{
+  "name": "JustKeepGoing",
+  "symbol": "GG",
+  "collection": "KeepOnRolling",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FauDetnUDopiHHB9uwv7jXYKGqAnZN1g5h87X6ZdGxtL",
+        "share": 100
+      }
+    ]
+  }
+}
